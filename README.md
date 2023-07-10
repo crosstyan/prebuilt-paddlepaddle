@@ -1,4 +1,4 @@
-# `aarch64` version of Paddle Paddle compiled with Python 3.9 
+# `aarch64` version of Paddle Paddle compiled
 
 I build this for my rochchip rk3588. Check the [release](https://github.com/crosstyan/prebuilt-paddlepaddle/releases/tag/v2.5.0)
 
